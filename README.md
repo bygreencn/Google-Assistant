@@ -38,8 +38,8 @@ https://github.com/Matrixdns/Google-Assistant/issues
 谷歌助手官方QQ群:453864468
 
 ##作者##
-Name: ringhacker
-邮箱:gelou.cat@gmail.com
+- Name: ringhacker
+- 邮箱:gelou.cat@gmail.com
 
 ##License##
 
