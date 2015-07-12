@@ -15,11 +15,11 @@
 - 优化证书安装
 - 重新设计UI
 
-## 其他链接## 
+##更新特性##
 |    |   |
 | --------   | :----  |
 | 谷歌社区 | https://plus.google.com/communities/100095559541855774106 |
-| 推特 | https://twitter.com/GoogleAssistan |
+| 推特 | https://twitter.com/onionhacker |
 | 更新历史| 待添加.. |
 |    |   |
 
@@ -33,6 +33,13 @@ https://github.com/Matrixdns/Google-Assistant/issues
 | 开源免费 | 稳定可靠 | 
 | 智能DNS | 跨平台支持  |
 |    |   |
+##技术支持##
+
+谷歌助手官方QQ群:453864468
+
+##作者##
+Name: ringhacker
+邮箱:gelou.cat@gmail.com
 
 ##License##
 
