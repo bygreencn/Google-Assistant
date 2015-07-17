@@ -21,7 +21,7 @@
 | 谷歌社区-提供技术交流 | https://plus.google.com/communities/100095559541855774106 |
 | 推特-提供咨询 | https://twitter.com/onionhacker |
 | 枫叶香蕉魔音平台 | http://v.tudou.com/2999325 |
-| 枫叶香蕉新浪微博 | http://v.tudou.com/2999325 |
+| 魔音新浪微博 | http://v.tudou.com/2999325 |
 |    |   |
 
 ##问题反馈##
