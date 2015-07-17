@@ -15,14 +15,13 @@
 - 优化证书安装
 - 重新设计UI
 
-##更新特性##
+##其他项目##
 |    |   |
 | --------   | :----  |
-| 谷歌社区 | https://plus.google.com/communities/100095559541855774106 |
-| 手机专用 | http://banbu.cc |
-
-| 推特 | https://twitter.com/onionhacker |
-| 更新历史| 待添加.. |
+| 谷歌社区-提供技术交流 | https://plus.google.com/communities/100095559541855774106 |
+| 推特-提供咨询 | https://twitter.com/onionhacker |
+| 枫叶香蕉魔音平台 | http://v.tudou.com/2999325 |
+| 枫叶香蕉新浪微博 | http://v.tudou.com/2999325 |
 |    |   |
 
 ##问题反馈##
