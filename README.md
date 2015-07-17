@@ -19,6 +19,8 @@
 |    |   |
 | --------   | :----  |
 | 谷歌社区 | https://plus.google.com/communities/100095559541855774106 |
+| 手机专用 | http://banbu.cc |
+
 | 推特 | https://twitter.com/onionhacker |
 | 更新历史| 待添加.. |
 |    |   |
