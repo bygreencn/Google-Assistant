@@ -1,6 +1,6 @@
 ﻿## 谷歌助手V1.0.0.5发布##
 ##下载地址##
-- http://git.io/vm6ut
+- http://git.io/vmiQR
 
 - 将项目邮箱加入你的联系人,随时获取谷歌助手最新消息gelou.cat@gmail.com
 
