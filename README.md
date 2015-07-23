@@ -1,6 +1,7 @@
-﻿## 谷歌助手V1.0.0.5发布##
+﻿## 谷歌助手V1.2发布##
 ##下载地址##
-- http://git.io/vmiQR
+- 1 dropbox https://www.dropbox.com/s/ar9tfpexkk78u38/%E8%B0%B7%E6%AD%8C%E5%8A%A9%E6%89%8B.zip?dl=0
+- 2 百度网盘 http://pan.baidu.com/s/1i3w8jWD  密码: j49w
 
 - 将项目邮箱加入你的联系人,随时获取谷歌助手最新消息gelou.cat@gmail.com
 
@@ -11,9 +12,9 @@
 - 支持谷歌所有产品:Drive、Gmail、google search、google 学术等
 - 内置智能DNS,让你网络自动加速
 - 涵盖所有浏览器,率先支持Windows 10系统
-- 永久免费、绿色、高效
-- 优化证书安装
-- 重新设计UI
+- 首次使用高大上的Linode服务器! 
+- 首次使用Delphi xe8 update1平台
+- 首次支持视频高清
 
 ##其他项目##
 |    |   |
