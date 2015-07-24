@@ -6,7 +6,7 @@
 - 2 更稳定更流畅 
 - 3 支持更多域名
 ##下载地址##
-- 1 http://pan.baidu.com/s/1o6KeDQi
+-  http://pan.baidu.com/s/1o6KeDQi
 
 - 将项目邮箱加入你的联系人,随时获取谷歌助手最新消息gelou.cat@gmail.com
 
