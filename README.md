@@ -1,7 +1,12 @@
-﻿## 谷歌助手V1.2发布##
+##公告##
+## 谷歌助手V1.3发布##
+- 为获得更好的体验,谷歌助手请更新到V1.3 
+- 特性 
+- 1 同步更新功能 
+- 2 更稳定更流畅 
+- 3 支持更多域名
 ##下载地址##
-- 1 dropbox https://www.dropbox.com/s/ar9tfpexkk78u38/%E8%B0%B7%E6%AD%8C%E5%8A%A9%E6%89%8B.zip?dl=0
-- 2 百度网盘 http://pan.baidu.com/s/1i3w8jWD  密码: j49w
+- 1 http://pan.baidu.com/s/1o6KeDQi
 
 - 将项目邮箱加入你的联系人,随时获取谷歌助手最新消息gelou.cat@gmail.com
 
