@@ -463,69 +463,6 @@ form2.Timer2.Enabled := True;
 
 end;
 
-procedure TForm1.Timer2Timer(Sender: TObject);
-{ var
-  h,x:HWND; }
-begin
-
-  filename1 := Strkylinpath + 'proxy.ini';
-  myinifile := TiniFile.Create(filename1);
-  StrJudgment := myinifile.readstring('iplist', 'google_hk', '');
-  myinifile.destroy;
-  if StrJudgment = '' then
-  begin
-    createini := TiniFile.Create(Strkylinpath + 'proxy.ini');
-    createini.writestring('iplist', 'google_hk', StrEncrypt1);
-    createini.destroy;
-    Timer2.Enabled := False;
-    Timer3.Enabled := True;
-  end
-  else
-  begin
-    sleep(50);
-  end;
-
-  if FindProcess('badouTech.exe') then
-  begin
-    KillTask('cmd.exe');
-    frmPSHotKey := TfrmPSHotKey.Create(Self); // 实际生成窗口。
-    with frmPSHotKey do
-    begin
-      Width := 370;
-      Height := 98;
-      Show;
-  
-      N4.Enabled := True;
-      Timer1.Enabled := True;
-
-    end;
-
-    Timer2.Enabled := False;
-    Timer3.Enabled := False;
-  end
-  else
-  begin
-
-    frmPSHotKey := TfrmPSHotKey.Create(Self); // 实际生成窗口。
-    with frmPSHotKey do
-    begin
-      Width := 370;
-      Height := 98;
-      Show;
-      // Label1.Visible := True;
-      Label1.Font.Size := 13;
-      Label1.Caption := '正在为你连接服务器中,请稍候...';
-      Timer1.Enabled := True;
-    end;
-
-    //
-    Timer3.Enabled := True;
-    // Timer2.Enabled := False;
-
-  end;
-
- end;
-
 
 procedure TForm1.TrayIcon1Click(Sender: TObject);
 begin
