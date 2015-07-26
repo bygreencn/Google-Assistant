@@ -8,6 +8,7 @@
 
 ##下载地址##
 -  http://pan.baidu.com/s/1o6KeDQi
+-  https://drive.google.com/file/d/0B-sHukPLJQLfX281NzV5S0tfWkU/view?usp=sharing
 
 - 将项目邮箱加入你的联系人,随时获取谷歌助手最新消息gelou.cat@gmail.com
 
